@@ -1,3 +1,4 @@
+# Important, Do this first. https://senzing.zendesk.com/hc/en-us/articles/115002408867-Quickstart-Guide
 export GIT_ACCOUNT=senzing
 export GIT_REPOSITORY=docker-compose-demo
 export GIT_ACCOUNT_DIR=~/${GIT_ACCOUNT}.git
