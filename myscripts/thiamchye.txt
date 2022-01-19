@@ -1,0 +1,8 @@
+# To start Up
+source environ.sh 
+./start_up.sh 
+./load_data.sh
+
+# To shutdown
+source environ.sh
+./shut_down.sh 
